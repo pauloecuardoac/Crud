@@ -1,0 +1,5 @@
+package com.br.business.resources.exceptions;
+
+public class ResourceExceptionHandler {
+
+}
